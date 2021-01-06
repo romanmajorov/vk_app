@@ -23,7 +23,7 @@
     "@vkontakte/vk-bridge": "^2.2.2",
     "@vkontakte/vkui": "^3.10.0",
     "@vkontakte/vkui-connect": "^1.5.4",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "babel-eslint": "^9.0.0",
     "core-js": "^2.6.5",
     "gh-pages": "^2.2.0",
